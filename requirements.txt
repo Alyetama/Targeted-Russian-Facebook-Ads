@@ -1,0 +1,4 @@
+datasette
+sqlite-utils
+pip
+datasette-vega
